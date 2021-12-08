@@ -1,0 +1,34 @@
+{
+	"creditList":[
+		{
+			"tokuteiHaishutsushaNo":"000000001",
+			"projectNum":"7770001",
+			"seidoKigou":"JC",
+			"mukouItenKubun":"1",	
+			"numFrom":"999999999999001",
+			"numTo":"999999999999100",
+			"mukouItenDate":"20210801",
+			"mukouItenRyou":100
+		},
+		{
+			"tokuteiHaishutsushaNo":"000000002",
+			"projectNum":"7770002",
+			"seidoKigou":"KCP",
+			"mukouItenKubun":"2",	
+			"numFrom":"999999999900000",
+			"numTo":"999999999900049",
+			"mukouItenDate":"20210803",
+			"mukouItenRyou":50
+		},
+		{
+			"tokuteiHaishutsushaNo":"",
+			"projectNum":"",
+			"seidoKigou":" ",
+			"mukouItenKubun":"",	
+			"numFrom":"",
+			"numTo":"",
+			"mukouItenDate":"",
+			"mukouItenRyou":50
+		}
+	]
+}
